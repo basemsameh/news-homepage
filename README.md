@@ -37,8 +37,8 @@ This is a solution to the [News homepage challenge on Frontend Mentor](https://w
 
 ## Links
 
-- Solution on Frontend Mentor: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Demo](https://your-live-site-url.com)
+- Solution on Frontend Mentor: [Solution](https://www.frontendmentor.io/solutions/news-homepage-Esv2PbjJ18)
+- Live Site URL: [Demo](https://basemsameh.github.io/news-homepage/)
 
 ## Author
 
